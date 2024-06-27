@@ -1,9 +1,11 @@
 # Dominos-Pizza
 Spotlight on Sales in Nigeria for 8.30-9.30am for 2 weeks in December 2015
 
+<!-- 
 <h1>Mei Chan</h1>
 <h2>Data Analyst</h2>
 <!-- <h2>👨‍💻 Projects:</h2> -->
+
   
 <!-- Power BI dashboard -->
 <h3> Power BI dashboard of Domino's Pizza sales </h3>
